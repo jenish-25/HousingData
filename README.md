@@ -1,0 +1,1 @@
+This is a Spring Boot Backend Web APIs project called Housing Data , where we can Add the data about house , and then we can get all the data , we can get average price pr location, we can get max sale price and min sale price .
